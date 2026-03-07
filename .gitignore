@@ -1,0 +1,6 @@
+node_modules/
+.env
+try-app/
+university-api/
+test-project/
+.vscode/
